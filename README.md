@@ -1,7 +1,3 @@
-# Dashboard and CMS Live app - https://ecommerce-dashboard-cms.vercel.app/
-
-# Store Live page - https://ecommerce-store-theta-gray.vercel.app/
-
 ![HomePage](images/HomePage.png)
 
 # Full Stack E-Commerce + Dashboard & CMS Project
@@ -28,7 +24,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/abishek-as/ecommerce-dashboard-cms.git
+git clone https://github.com/ish15/ShopEase.git
 ```
 
 ### Install packages
