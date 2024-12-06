@@ -1,8 +1,8 @@
 ![HomePage](images/HomePage.png)
 
-# Full Stack E-Commerce + Dashboard & CMS Project
+# E-Commerce with Admin Dashboard & CMS Project
 
-## Technologies used: Next.js 13, React, Tailwind, Prisma, MySQL, Stripe
+## Technologies: Next.js 13, React, Tailwind, Prisma, MySQL, Stripe
 
 ### Key Features:
 
